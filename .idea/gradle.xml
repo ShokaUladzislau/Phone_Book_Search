@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Phone Book/task" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression (1)" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Placement of ships" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
